@@ -1,0 +1,61 @@
+*{
+  box-sizing: border-box;
+  padding: none;
+  border: none;
+}
+
+.display{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.button{
+  text-align: center;
+  
+}
+.button a{
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 10px;
+  color: black;
+  
+  
+}
+
+.button a:hover{
+  background-color: darkgray;
+}
+
+.hovery a:hover{
+  background-color: black;
+  color: white;
+}
+/* .hovery{
+  
+} */
+.hhhtags{
+  text-align: center;
+  color: brown;
+  
+}
+.hhtags{
+  text-align: center;
+
+}
+
+
+
+
+.allbod{
+  margin-top: 95px;
+  height: 800px;
+  padding: 90px;
+
+}
+
+
+  
+
+.allbod img{
+  width: 100%;
+}
